@@ -51,3 +51,5 @@ Cleaned and standardized all 9 core columns.
 Resolved 100% of formatting issues and clearly flagged missing data with "N/A".
 Dataset is now fully analysis-ready, enabling clearer visualization, trend analysis, and reporting for transportation performance and service budgeting.
 
+![Cleaned Excel Table](https://github.com/MISYUSENI18/Nigeria-Railway-Data-Cleaning-Project/blob/main/Nigeria%20railway%20data%20clean.jpg?raw=true)
+
