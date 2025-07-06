@@ -46,7 +46,7 @@ Structured the dataset as an Excel Table to enable easy filtering, sorting, and 
 Standardized column headers for naming consistency (e.g., capitalization).
 Verified and reassigned correct data types for each column (dates, text, numbers, currency).
 
-##### outcome & Key Impact
+##### Outcome & Key Impact
 Cleaned and standardized all 9 core columns.
 Resolved 100% of formatting issues and clearly flagged missing data with "N/A".
 Dataset is now fully analysis-ready, enabling clearer visualization, trend analysis, and reporting for transportation performance and service budgeting.
